@@ -49,7 +49,7 @@ To run the Lights Out Game project locally, follow these steps:
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you'd like to contribute to the Lights Out Game project, please follow these steps:
+Contributions to this project are always welcome! If you have any suggestions, bug reports, or want to add new features, feel free to open an issue or submit a pull request.
 
 <br>
 
